@@ -1,5 +1,5 @@
 # Contenido
-Esta carpeta contiene temas de estadistica y codigos en los que se trabajaron durante clase
+Esta carpeta contiene temas de Deep Learning y codigos en los que se trabajaron durante clase
 
 # Lectura de Archivos
 
